@@ -1,0 +1,30 @@
+============================== SRIM-2013.00 ==============================
+==============================================================================
+====== SRIM Outputs\RANGE_3D.txt : File of Final Ion Positions =====
+
+Ion = He (02)   Ion Mass= 004,0030
+Energy  = 9000000,E-05 keV
+Ion Angle to Surface = 00,0 degrees
+==================== TARGET =======================
+  Layer # 1 - Layer 1
+  Layer # 1 - Bottom Depth=400000,E-03 A
+  Layer # 1 - Density =0002,7020 g/cm3
+  Layer # 1 -  100 % of Al
+  Layer # 1 -  0 % of  H
+  Layer # 1 -  0 % of  C
+  Layer # 1 -  0 % of  N
+  Layer # 1 -  0 % of  O
+様様様様様様様様様様様様様様様様様様様様様様様様様様
+  Layer # 2 - Kapton Polyimide Film (ICRU-179)
+  Layer # 2 - Bottom Depth=200000,E-02 A
+  Layer # 2 - Density =0001,4200 g/cm3
+  Layer # 2 -  0 % of Al
+  Layer # 2 -  26 % of  H
+  Layer # 2 -  56 % of  C
+  Layer # 2 -  5 % of  N
+  Layer # 2 -  13 % of  O
+様様様様様様様様様様様様様様様様様様様様様様様様様様
+                                            
+Ion       Depth  X   Lateral Y   Lateral Z  
+Number    (Angstrom) (Angstrom)  (Angstrom) 
+-------  ----------- ----------- -----------

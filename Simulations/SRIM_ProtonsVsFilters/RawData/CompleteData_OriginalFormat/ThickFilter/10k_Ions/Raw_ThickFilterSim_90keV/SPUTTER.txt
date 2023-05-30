@@ -1,0 +1,51 @@
+============================== SRIM-2013.00 ==============================
+==============================================================================
+------------------------------------------------------------------------------
+ =====================================================================
+                       SPUTTERING   CALCULATION                       
+ =====================================================================
+    >> Review plot of SPUTTERING YIELD vs. Surface Binding Energy <<  
+    >> for how yield changes with SBE (last plot of Menu of Plots)<<  
+ =====================================================================
+ =   AXIS DEFINITIONS: X=Depth, Y,Z= Lateral plane of target surface.=
+ =   (If beam enters target at an angle, this tilt is in Y direction)=
+ =   Shown are: Ion Number                                           =
+ =              Sputtered atom type (atomic name) and energy (eV)    =
+ =                 (Note: SBE is NOT subtracted from atom energy)    =
+ =              Point of ejection relative to ion entrance point.    =
+ =              Trajectional cosines of ejected atom.                =
+ =                  Cosine (X) is negative indicating motion away    =
+ =                     from the target surface.                      =
+ =                  Cosine (Y) and Cosine (Z) are transverse motion. =
+ =====================================================================
+ ==================  CALCULATION   DATA  =============================
+  Calculation Date= 05-26-2023, Time= 18:21:25
+  Ion Data: Name,   Mass,   Energy (keV)
+            H    1,008 90,
+==============================================================================
+=  This file tabulates the kinetics of ions or atoms leaving the target.     =
+=  Column #1: S= Sputtered Atom, B= Backscattered Ion, T= Transmitted Ion.   =
+=  Col.#2: Ion Number, Col.#3: Z of atom leaving, Col.#4: Atom energy (eV).  =
+=  Col.#5-7: Last location:  X= Depth into target, Y,Z= Transverse axes.     =
+=  Col.#8-10: Cosines of final trajectory.                                   =
+= *** This data file is in the same format as TRIM.DAT (see manual for uses).=
+====== TRIM Calc.=  H(90 keV) ==> Aluminum+Polypropylene (( 5750 A) ==========
+ Ion  Atom   Energy        Depth       Lateral-Position        Atom Direction      
+ Numb Numb    (eV)          X(A)        Y(A)       Z(A)      Cos(X)  Cos(Y) Cos(Z) 
+S  955 13 ,9483598E+01   0000000E+00 -,9782E+01 -,8510E+01  -,7610736  ,2782990  ,5859322
+S  955 13 ,4249875E+01   0000000E+00 -,1562E+02 -,9577E+01  -,9921703 -,1225325 -,0241648
+S  955 13 ,5994349E+01   0000000E+00 -,1130E+00 -,5017E+00  -,9774288 -,2105788  ,0170172
+S  955 13 ,1427371E+02   0000000E+00  ,1291E+01 -,2634E+01  -,8419274 -,2106647  ,4967681
+S  955 13 ,7434082E+01   0000000E+00 -,9439E+01 -,4066E+01  -,9401837 -,1767969  ,2912000
+S 1640 13 ,7264384E+01   0000000E+00 -,6298E+00 -,3995E+01  -,9399132  ,2225428  ,2589166
+S 1640 13 ,1727313E+02   0000000E+00  ,1701E+00 -,6706E+01  -,8204154  ,5631922  ,0986565
+S 1640 13 ,1264511E+02   0000000E+00 -,3850E+01 -,4227E+01  -,8434789 -,0467116 -,5351275
+S 1640 13 ,1095176E+02   0000000E+00 -,6076E+01 -,8292E+01  -,9285152 -,2566589  ,2683015
+S 1640 13 ,4617924E+01   0000000E+00 -,9402E+01 -,1161E+02  -,9469587 -,2445015  ,2085386
+S 1935 13 ,9088986E+01   0000000E+00  ,2441E+01  ,1441E+01  -,9902261 -,0991717 -,0980673
+S 5393 13 ,6044667E+01   0000000E+00 -,3931E+01  ,2845E+01  -,9772124  ,2029909 -,0620530
+S 5393 13 ,9855575E+01   0000000E+00 -,6645E+01  ,2142E+01  -,9999340  ,0047323  ,0104676
+S 6657 13 ,4172071E+01   0000000E+00  ,4330E+01 -,1977E+02  -,9656956  ,1656698 -,1999637
+S 6657 13 ,6430259E+01   0000000E+00  ,3035E+01 -,1593E+02  -,8123092  ,5680856 -,1320326
+S 8483 13 ,1553748E+02   0000000E+00  ,3370E+01  ,5958E+01  -,9944568  ,0954572  ,0440853
+S 8608 13 ,2988564E+02   0000000E+00 -,2026E+01  ,6439E+01  -,4241322  ,0787678  ,9021683

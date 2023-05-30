@@ -1,0 +1,54 @@
+============================== SRIM-2013.00 ==============================
+==============================================================================
+------------------------------------------------------------------------------
+ =====================================================================
+                       SPUTTERING   CALCULATION                       
+ =====================================================================
+    >> Review plot of SPUTTERING YIELD vs. Surface Binding Energy <<  
+    >> for how yield changes with SBE (last plot of Menu of Plots)<<  
+ =====================================================================
+ =   AXIS DEFINITIONS: X=Depth, Y,Z= Lateral plane of target surface.=
+ =   (If beam enters target at an angle, this tilt is in Y direction)=
+ =   Shown are: Ion Number                                           =
+ =              Sputtered atom type (atomic name) and energy (eV)    =
+ =                 (Note: SBE is NOT subtracted from atom energy)    =
+ =              Point of ejection relative to ion entrance point.    =
+ =              Trajectional cosines of ejected atom.                =
+ =                  Cosine (X) is negative indicating motion away    =
+ =                     from the target surface.                      =
+ =                  Cosine (Y) and Cosine (Z) are transverse motion. =
+ =====================================================================
+ ==================  CALCULATION   DATA  =============================
+  Calculation Date= 05-25-2023, Time= 16:55:44
+  Ion Data: Name,   Mass,   Energy (keV)
+           He    4,003 180,
+==============================================================================
+=  This file tabulates the kinetics of ions or atoms leaving the target.     =
+=  Column #1: S= Sputtered Atom, B= Backscattered Ion, T= Transmitted Ion.   =
+=  Col.#2: Ion Number, Col.#3: Z of atom leaving, Col.#4: Atom energy (eV).  =
+=  Col.#5-7: Last location:  X= Depth into target, Y,Z= Transverse axes.     =
+=  Col.#8-10: Cosines of final trajectory.                                   =
+= *** This data file is in the same format as TRIM.DAT (see manual for uses).=
+====== TRIM Calc.= He(180 keV) ==> Layer 1+Kapton Polyimide( 2000 A) =========
+ Ion  Atom   Energy        Depth       Lateral-Position        Atom Direction      
+ Numb Numb    (eV)          X(A)        Y(A)       Z(A)      Cos(X)  Cos(Y) Cos(Z) 
+S   81 13 ,2681041E+02   0000000E+00  ,7598E+02  ,9509E-01  -,8972734  ,1668887 -,4087159
+S   81 13 ,9113994E+01   0000000E+00  ,7682E+02  ,3481E+01  -,9238849 -,3324448 -,1895180
+S   81 13 ,2776370E+02   0000000E+00  ,8224E+02 -,2555E+01  -,6234454  ,7535940 -,2083551
+S   81 13 ,5431589E+03   0000000E+00  ,7746E+02 -,5658E+01  -,9999996  ,0008417  ,0000586
+S   81 13 ,1116796E+03   0000000E+00  ,8239E+02 -,4220E+01  -,4351621  ,8221694  ,3669760
+S   81 13 ,2115233E+03   0000000E+00  ,7999E+02 -,7140E+01  -,6167150 -,1189846 -,7781422
+S   81 13 ,3566516E+02   0000000E+00  ,8093E+02  ,3099E+00  -,9673373  ,1187301  ,2239683
+S   81 13 ,3417194E+01   0000000E+00  ,8153E+02 -,5702E+01  -,9999542 -,0079480 -,0053278
+S  447 13 ,3554856E+01   0000000E+00  ,5404E+01  ,5200E+01  -,9978862  ,0622491  ,0186568
+S  447 13 ,1039329E+02   0000000E+00  ,4075E+01  ,3946E+01  -,8609903 -,2394707  ,4487199
+S  447 13 ,6111174E+01   0000000E+00 -,8911E+00  ,6123E+01  -,9638411  ,1192509  ,2383058
+S  447 13 ,2308301E+02   0000000E+00 -,2761E+01  ,7672E+01  -,9863265  ,0998845  ,1310841
+S  447 13 ,2432447E+02   0000000E+00 -,1535E+01  ,6797E+01  -,6337205  ,3492779  ,6902198
+S  518 13 ,3666092E+01   0000000E+00  ,8442E+00 -,8140E+00  -,9810139 -,1772885 -,0786166
+S  628 13 ,2159392E+02   0000000E+00  ,5550E+01 -,4066E+01  -,9937614  ,1042558  ,0396113
+S  628 13 ,6382637E+01   0000000E+00  ,4927E+01 -,8362E+01  -,8654627  ,0534810  ,4981106
+S  628 13 ,4137876E+01   0000000E+00 -,1123E+01 -,7484E+01  -,9763612 -,0893428  ,1968165
+S  887 13 ,1594672E+02   0000000E+00  ,8565E+01  ,1757E+02  -,9099076  ,3534226  ,2171647
+S  887 13 ,8730127E+01   0000000E+00 -,6507E+01  ,2565E+01  -,9999784  ,0060948  ,0024749
+S  911 13 ,4214953E+02   0000000E+00 -,4039E+01 -,3598E+00  -,9036604  ,3037831 -,3018506

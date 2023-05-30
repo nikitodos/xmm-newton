@@ -1,0 +1,52 @@
+============================== SRIM-2013.00 ==============================
+==============================================================================
+------------------------------------------------------------------------------
+ =====================================================================
+                       SPUTTERING   CALCULATION                       
+ =====================================================================
+    >> Review plot of SPUTTERING YIELD vs. Surface Binding Energy <<  
+    >> for how yield changes with SBE (last plot of Menu of Plots)<<  
+ =====================================================================
+ =   AXIS DEFINITIONS: X=Depth, Y,Z= Lateral plane of target surface.=
+ =   (If beam enters target at an angle, this tilt is in Y direction)=
+ =   Shown are: Ion Number                                           =
+ =              Sputtered atom type (atomic name) and energy (eV)    =
+ =                 (Note: SBE is NOT subtracted from atom energy)    =
+ =              Point of ejection relative to ion entrance point.    =
+ =              Trajectional cosines of ejected atom.                =
+ =                  Cosine (X) is negative indicating motion away    =
+ =                     from the target surface.                      =
+ =                  Cosine (Y) and Cosine (Z) are transverse motion. =
+ =====================================================================
+ ==================  CALCULATION   DATA  =============================
+  Calculation Date= 05-05-2023, Time= 15:11:56
+  Ion Data: Name,   Mass,   Energy (keV)
+            H    1,008 60,
+==============================================================================
+=  This file tabulates the kinetics of ions or atoms leaving the target.     =
+=  Column #1: S= Sputtered Atom, B= Backscattered Ion, T= Transmitted Ion.   =
+=  Col.#2: Ion Number, Col.#3: Z of atom leaving, Col.#4: Atom energy (eV).  =
+=  Col.#5-7: Last location:  X= Depth into target, Y,Z= Transverse axes.     =
+=  Col.#8-10: Cosines of final trajectory.                                   =
+= *** This data file is in the same format as TRIM.DAT (see manual for uses).=
+====== TRIM Calc.=  H(60 keV) ==> Aluminum+Kapton Polyimid( 2000 A) ==========
+ Ion  Atom   Energy        Depth       Lateral-Position        Atom Direction      
+ Numb Numb    (eV)          X(A)        Y(A)       Z(A)      Cos(X)  Cos(Y) Cos(Z) 
+S  271 13 ,3225877E+02   0000000E+00  ,1079E+02 -,2396E+02  -,9704043 -,1638056 -,1774350
+S  271 13 ,5480036E+01   0000000E+00  ,6849E+01 -,2280E+02  -,8973625 -,1266254 -,4227369
+S  271 13 ,7656591E+01   0000000E+00  ,1236E+02 -,2577E+02  -,9279400 -,3060288 -,2127762
+S  271 13 ,3389369E+02   0000000E+00  ,1427E+02 -,1491E+02  -,9602895  ,1022730 -,2595849
+S  271 13 ,2877405E+02   0000000E+00  ,1372E+02 -,1087E+02  -,9999564 -,0058598 -,0072772
+S  271 13 ,1777574E+03   0000000E+00  ,9865E+01 -,1012E+02  -,9858794 -,0929633 -,1392826
+S  271 13 ,2000669E+03   0000000E+00  ,1077E+02 -,1431E+02  -,9874007 -,1413860 -,0710626
+S  271 13 ,6120988E+01   0000000E+00 -,2928E+02 -,1071E+02  -,9962903 -,0165399  ,0844517
+S  271 13 ,5802484E+01   0000000E+00 -,2666E+02 -,9206E+01  -,8855280  ,4007627  ,2350096
+S  271 13 ,7622620E+01   0000000E+00 -,3229E+02 -,9545E+01  -,7692574 -,3968709  ,5007359
+S  271 13 ,1038217E+02   0000000E+00 -,3241E+02 -,1221E+02  -,7139731 -,4408670 -,5439473
+S  271 13 ,1189840E+02   0000000E+00 -,2693E+02 -,9926E+00  -,9318433 -,2860863 -,2232102
+S  271 13 ,1795323E+02   0000000E+00 -,2530E+02 -,1053E+01  -,9971258 -,0343002  ,0675546
+S  271 13 ,4086613E+01   0000000E+00 -,2956E+02 -,1736E+01  -,9923282 -,1173427  ,0389298
+S  271 13 ,2009957E+02   0000000E+00 -,2797E+02 -,6790E+01  -,9169433 -,3668814  ,1568852
+S  271 13 ,2912614E+02   0000000E+00 -,2436E+02 -,8613E+00  -,7534745  ,3622680  ,5486695
+S  271 13 ,4232628E+01   0000000E+00 -,3188E+02 -,3172E+01  -,9919953  ,0333710  ,1217857
+S  271 13 ,5218593E+01   0000000E+00 -,1499E+02 -,3568E+01  -,9110547  ,3144124 -,2666912

@@ -1,0 +1,18 @@
+============================== SRIM-2013.00 ==============================
+==============================================================================
+===== TRIMOUT.txt: File of Transmitted / Backscattered / Sputtered Atoms =====
+=  This file tabulates the kinetics of ions or atoms leaving the target.     =
+=  Column #1: S= Sputtered Atom, B= Backscattered Ion, T= Transmitted Ion.   =
+=  Col.#2: Ion Number, Col.#3: Z of atom leaving, Col.#4: Atom energy (eV).  =
+=  Col.#5-7: Last location:  X= Depth into target, Y,Z= Transverse axes.     =
+=  Col.#8-10: Cosines of final trajectory.                                   =
+= *** This data file is in the same format as TRIM.DAT (see manual for uses).=
+====== TRIM Calc.=  H(30 keV) ==> Aluminum+Polypropylene (( 5750 A) ==========
+ Ion  Atom   Energy        Depth       Lateral-Position        Atom Direction      
+ Numb Numb    (eV)          X(A)        Y(A)       Z(A)      Cos(X)  Cos(Y) Cos(Z) 
+B  166  1 ,2479700E+05 -  6999596E-07 -,3151E+02 -,8831E+02  -,4186260 -,3119000 -,8529189
+B  423  1 ,4609859E+04 -  3708886E-07 -,1645E+03  ,2060E+04  -,5029961 -,1897778  ,8431959
+B  575  1 ,7329870E+04 -  6469063E-07 -,1478E+04 -,5327E+02  -,6340426 -,7301791 -,2546142
+B  657  1 ,1990161E+05 -  4541356E-07 -,5047E+03  ,2243E+02  -,2358518 -,9716521 -,0163113
+S  688 13 ,6953044E+01   0000000E+00  ,6534E+01 -,2062E+00  -,9996155 -,0275198 -,0033909
+S  688 13 ,6568361E+01   0000000E+00  ,6949E+01 -,3048E+01  -,8219182  ,5230210  ,2256094

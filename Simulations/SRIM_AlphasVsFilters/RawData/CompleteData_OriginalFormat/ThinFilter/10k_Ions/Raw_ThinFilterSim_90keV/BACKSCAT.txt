@@ -1,0 +1,15 @@
+============================== SRIM-2013.00 ==============================
+==============================================================================
+========== SRIM Outputs\BACKSCATSRIM Outputs\ : File of Backscattered Ions =============
+=  This file tabulates the kinetics of ions or atoms leaving the target.     =
+=  Column #1: S= Sputtered Atom, B= Backscattered Ion, T= Transmitted Ion.   =
+=  Col.#2: Ion Number, Col.#3: Z of atom leaving, Col.#4: Atom energy (eV).  =
+=  Col.#5-7: Last location:  X= Depth into target, Y,Z= Transverse axes.     =
+=  Col.#8-10: Cosines of final trajectory.                                   =
+= *** This data file is in the same format as TRIM.DAT (see manual for uses).=
+====== TRIM Calc.= He(90 keV) ==> Layer 1+Kapton Polyimide( 2000 A) ==========
+ Ion  Atom   Energy        Depth       Lateral-Position        Atom Direction      
+ Numb Numb    (eV)          X(A)        Y(A)       Z(A)      Cos(X)  Cos(Y) Cos(Z) 
+B 2545  2 ,5629640E+04 -  8806059E-07  ,1364E+04 -,2292E+04  -,9876535  ,1565680  ,0052059
+B 3467  2 ,3941718E+05 -  6785963E-07  ,2738E+03 -,4559E+03  -,5341455  ,4595238 -,7095960
+B 4916  2 ,1176577E+05 -  9229369E-07 -,4158E+04  ,2903E+03  -,5721563 -,7933403  ,2079625

@@ -1,0 +1,15 @@
+============================== SRIM-2013.00 ==============================
+==============================================================================
+=================  TRANSMIT.txt : File of Transmitted Ions  ==================
+=  This file tabulates the kinetics of ions or atoms leaving the target.     =
+=  Column #1: S= Sputtered Atom, B= Backscattered Ion, T= Transmitted Ion.   =
+=  Col.#2: Ion Number, Col.#3: Z of atom leaving, Col.#4: Atom energy (eV).  =
+=  Col.#5-7: Last location:  X= Depth into target, Y,Z= Transverse axes.     =
+=  Col.#8-10: Cosines of final trajectory.                                   =
+= *** This data file is in the same format as TRIM.DAT (see manual for uses).=
+====== TRIM Calc.= He(10 keV) ==> Layer 1+Kapton Polyimide( 2000 A) ==========
+ Ion  Atom   Energy        Depth       Lateral-Position        Atom Direction      
+ Numb Numb    (eV)          X(A)        Y(A)       Z(A)      Cos(X)  Cos(Y) Cos(Z) 
+T   18  2 ,6375887E+03   2000694E-03  ,4466E+03 -,1451E+03   ,8434847 -,4195920 -,3353747
+T  104  2 ,1462081E+03   2001645E-03 -,2609E+03  ,5052E+03   ,8946633 -,3569960  ,2685728
+T  666  2 ,8380844E+03   2000117E-03  ,2667E+03  ,1012E+03   ,5953255 -,5055821  ,6244792

@@ -1,0 +1,24 @@
+============================== SRIM-2013.00 ==============================
+==============================================================================
+========== SRIM Outputs\BACKSCATSRIM Outputs\ : File of Backscattered Ions =============
+=  This file tabulates the kinetics of ions or atoms leaving the target.     =
+=  Column #1: S= Sputtered Atom, B= Backscattered Ion, T= Transmitted Ion.   =
+=  Col.#2: Ion Number, Col.#3: Z of atom leaving, Col.#4: Atom energy (eV).  =
+=  Col.#5-7: Last location:  X= Depth into target, Y,Z= Transverse axes.     =
+=  Col.#8-10: Cosines of final trajectory.                                   =
+= *** This data file is in the same format as TRIM.DAT (see manual for uses).=
+====== TRIM Calc.= He(100 keV) ==> Aluminum+Polypropylene (( 5750 A) =========
+ Ion  Atom   Energy        Depth       Lateral-Position        Atom Direction      
+ Numb Numb    (eV)          X(A)        Y(A)       Z(A)      Cos(X)  Cos(Y) Cos(Z) 
+B  507  2 ,3624246E+04 -  1006242E-06 -,2225E+03 -,1123E+03  -,8582058  ,0418302  ,5115984
+B  689  2 ,1328507E+05 -  3636262E-08  ,1146E+04 -,2890E+04  -,1461457  ,2233834 -,9637122
+B 1304  2 ,3999046E+05 -  2238350E-07 -,3974E+03 -,8010E+03  -,4059433 -,5161445 -,7541916
+B 1792  2 ,4462021E+05 -  3844425E-07 -,6816E+03  ,2425E+03  -,4911137 -,7984194  ,3483300
+B 2795  2 ,2596606E+05 -  2187864E-07  ,1277E+04  ,1991E+04  -,2021933  ,3540777  ,9130974
+B 4099  2 ,3821238E+05 -  1073814E-07  ,8435E+03  ,3308E+03  -,5258300  ,7752235  ,3500446
+B 4964  2 ,5766617E+05 -  1716191E-07 -,3093E+03  ,4360E+03  -,1526218 -,5534816  ,8187580
+B 5552  2 ,1001137E+05 -  1549036E-06  ,4075E+03 -,2487E+04  -,7890347  ,5486193 -,2764797
+B 7366  2 ,4436115E+05 -  9819707E-07  ,3453E+02  ,9729E+02  -,9540244  ,1323551  ,2689230
+B 7546  2 ,3729003E+05 -  1966132E-06 -,4935E+03 -,6843E+02  -,8034153 -,5869937 -,0998111
+B 7740  2 ,3806364E+05 -  3730507E-07 -,2845E+03 -,1135E+04  -,4135499 -,2297288 -,8810228
+B 9485  2 ,3635867E+05 -  1243051E-06 -,8363E+03 -,5622E+03  -,6540844 -,6428012 -,3987232
