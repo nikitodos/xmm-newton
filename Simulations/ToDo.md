@@ -1,6 +1,6 @@
 # Lista delle cose da fare
 
-+ Trasformare tutti i dati in formato Python/Colab;
++ COMPLETATO Trasformare tutti i dati in formato Python/Colab;
 + Eseguire i fit con i dati simulati della funzione a pag. 6 delle References di Data Analysis di A. Tiengo;
 + Plottare l'una sopra all'altra la funzione di fit dai dati sperimentali (di Tiengo) con quella dai dati simulati (mia).
 
