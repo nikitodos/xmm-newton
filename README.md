@@ -1,6 +1,6 @@
 # The variable background of XMM-Newton
 
-This is a page containing the data related to my B.Sc. thesis in Physics at the University of Pavia, that you can view [here](https://it.overleaf.com/read/qzyvtnfmqtqr).
+This is a page containing the data related to my B.Sc. thesis in Physics at the University of Pavia, that you can view [here](https://it.overleaf.com/read/qzyvtnfmqtqr) in its latest draft.
 
 ## References
 
