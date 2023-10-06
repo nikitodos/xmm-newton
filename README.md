@@ -2,6 +2,8 @@
 
 This is a page containing the data related to my B.Sc. thesis in Physics at the University of Pavia, that you can view [here](https://it.overleaf.com/read/qzyvtnfmqtqr) in its latest draft.
 
+![XMM](/References/XMM-Newton/XMM.jpg)
+
 ## References
 
 In this folder you can find some of the bibliography I used in this work.
