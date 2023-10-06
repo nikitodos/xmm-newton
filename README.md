@@ -2,7 +2,7 @@
 
 This is a page containing the data related to my B.Sc. thesis in Physics at the University of Pavia, that you can view [here](https://it.overleaf.com/read/qzyvtnfmqtqr) in its latest draft.
 
-![XMM](/References/XMM-Newton/XMM.jpg)
+![XMM](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/12/the_lockman_hole_in_x-rays/15729661-3-eng-GB/The_Lockman_Hole_in_X-rays.jpg)
 
 ## References
 
