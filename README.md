@@ -5,7 +5,7 @@
 
 This repository hosts data and analysis for my Bachelor's Thesis in Physics at the University of Pavia. The research characterizes the **variable instrumental background** of the **XMM-Newton** space telescope, focusing on the impact of **soft protons** and their interaction with the EPIC MOS camera filters.
 
-📚 [Thesis Draft (coming soon)](about:blank) | 💻 [Data Analysis Notebook](https://colab.research.google.com/drive/1_lByGgVL_X3-rP8CkA2dal-FVmZG4h4l?usp=sharing)
+📚 [Thesis Draft (coming soon)](about:blank) | 💻 [Data Analysis Notebook](https://github.com/nikitodos/xmm-newton/blob/main/JupyterNotebook_forDataAnalysis_Backup.ipynb)
 
 ## Abstract
 Low-energy ("soft") protons (tens of keV to MeV) are a major unpredictable background source for X-ray telescopes in high-Earth orbits (e.g., XMM-Newton, Chandra). These protons are focused by telescope mirrors and cause background flares that can reduce useful observation time by ≤40%. Understanding their origin and interactions is crucial for current missions (XMM, Chandra) and future observatories (ATHENA, SMILE).
@@ -66,7 +66,7 @@ This work:
 
 ## How to Use This Repository
 1. Access simulation data in `Simulations/` directories
-2. Explore analysis procedures in the [Colab Notebook](https://colab.research.google.com/drive/1_lByGgVL_X3-rP8CkA2dal-FVmZG4h4l?usp=sharing)
+2. Explore analysis procedures in the [Jupyter Notebook](https://github.com/nikitodos/xmm-newton/blob/main/JupyterNotebook_forDataAnalysis_Backup.ipynb)
 3. Consult `References/` for background literature
 4. Review [thesis draft (coming soon)](about:blank) for methodology details
 
